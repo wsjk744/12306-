@@ -143,8 +143,6 @@ json                  # Python内置，无需安装
 re                    # Python内置，无需安装
 ## 📸 界面预览
 
-## 📸 界面预览
-
 ### 🌍 全国查询
 ![全国查询](screenshots/nationwide.png)
 *遍历全国主要城市，进度条显示，支持暂停/继续，默认主界面*
@@ -168,3 +166,4 @@ re                    # Python内置，无需安装
 ### 🔔 余票提醒
 ![余票提醒](screenshots/reminder.png)
 *多车次监控，定时查询，有票弹窗提醒*
+
