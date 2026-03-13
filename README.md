@@ -172,7 +172,7 @@
 
 ### 📥 下载
 - 直接运行：`全国查票系统V3.0.exe`
-- 运行源码：`pip install requests pypinyin` 然后运行 `源代码.py`
+- 运行源码：`pip install requests pypinyin` 然后运行 `3.0.1.py`
 
 ### 🙏 感谢
 感谢大家的使用和反馈！这个版本会更稳定、更准确、更快速！
