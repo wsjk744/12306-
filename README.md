@@ -1,4 +1,4 @@
-# 🚄 12306 全国查票系统 · 终极完整版
+# 🚄 12306 全国查票系统 · v3.0版
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green)
