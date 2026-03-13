@@ -58,11 +58,7 @@
 3. 双击运行，无需安装Python！
 
 ### 方式2：运行源码
-```bash
-git clone https://github.com/wsjk744/12306-.git
-cd 12306-Ticket-Master
-pip install requests pypinyin
-python 源代码.py
+
 ### 🔸 数据准确性声明
 **我们无法保证数据完全正确，请以12306官方实际数据为准！** ⚠️
 
