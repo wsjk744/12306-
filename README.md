@@ -105,42 +105,6 @@
 
 ### 方式1：直接运行EXE（推荐，免安装）
 
-```bash
-# 1. 前往 Releases 页面下载最新版
-https://github.com/wsjk744/12306-/releases
-
-# 2. 下载 "全国查票系统V3.0.exe"
-
-# 3. 双击运行，无需安装Python环境！
-
-
-# 1. 克隆仓库
-git clone https://github.com/wsjk744/12306-.git
-
-# 2. 进入目录
-cd 12306-Ticket-Master
-
-# 3. 安装依赖
-pip install -r requirements.txt
-
-# 或者手动安装
-pip install requests pypinyin
-
-# 4. 运行程序
-python 源代码.py
-
-
-# 如果有Docker环境，也可以这样运行
-docker run -it --rm -v $(pwd):/app python:3.9 bash -c "pip install requests pypinyin && python /app/源代码.py"
-
-
-requests>=2.25.0      # 网络请求
-pypinyin>=0.46.0      # 拼音首字母搜索
-tkinter               # Python内置，无需安装
-threading             # Python内置，无需安装
-datetime              # Python内置，无需安装
-json                  # Python内置，无需安装
-re                    # Python内置，无需安装
 ## 📸 界面预览
 
 ### 🌍 全国查询
