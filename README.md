@@ -143,26 +143,28 @@ json                  # Python内置，无需安装
 re                    # Python内置，无需安装
 ## 📸 界面预览
 
+## 📸 界面预览
+
 ### 🌍 全国查询
-![全国查询](nationwide.png)
+![全国查询](screenshots/nationwide.png)
 *遍历全国主要城市，进度条显示，支持暂停/继续，默认主界面*
 
 ### 🔄 智能换乘
-![智能换乘](transfer.png)
+![智能换乘](screenshots/transfer.png)
 *BFS算法全国搜索，同省份优先，等候时间过滤，12/24小时制切换*
 
 ### 🏢 车站大屏
-![车站大屏](station.png)
+![车站大屏](screenshots/station.png)
 *车次、时间基础数据真实，状态本地模拟，颜色标记一目了然*
 
 ### 🚅 时刻表查询
-![时刻表查询](timetable.png)
+![时刻表查询](screenshots/timetable.png)
 *完整经停站信息，到达/发车时间，停留时间，运行时间*
 
 ### 📊 票价趋势
-![票价趋势](price.png)
+![票价趋势](screenshots/price.png)
 *连续7天票价对比，各席别价格一目了然*
 
 ### 🔔 余票提醒
-![余票提醒](reminder.png)
+![余票提醒](screenshots/reminder.png)
 *多车次监控，定时查询，有票弹窗提醒*
