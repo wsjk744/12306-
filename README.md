@@ -1,12 +1,16 @@
-# 🚄 12306 全国查票系统 · V3.0
+# 🚄 12306 全国查票系统 · 最终版 v3.0
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/GUI-Tkinter-green?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Downloads-EXE-brightgreen?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-开发中-yellow?style=for-the-badge">
-</p>
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green)
+![License](https://img.shields.io/badge/License-MIT-orange)
+![Status](https://img.shields.io/badge/Status-最终版-brightgreen)
+
+## ✨ 榨干所有接口的最终版本
+
+- 12306官方接口（票价/余票/时刻表/换乘）
+- 12036第三方接口（检票口/晚点/实时状态）
+- 9大功能模块，双数据源自由切换
+- 车站大屏颜色标记：黑色(默认)/绿色(检票)/红色(停止/停运)
 
 <p align="center">
   <strong>🚄 一款功能强大的12306火车票查询工具 · 9大核心功能 · 支持全国智能换乘 · 提供exe直接运行</strong>
